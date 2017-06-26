@@ -2,6 +2,8 @@
 
 # Actividad Presencial 1 de Jquery.
 
+https://github.com/DesafioLatam/Blearning-Frontend-E14CP1A1
+
 ## Ejercicios de repaso de javascript y jquery
 
 Para realizar estos ejercicios escribir dentro de un archivo .md
@@ -86,6 +88,7 @@ Para realizar estos ejercicios escribir dentro de un archivo .md
 	~~~
 
 ##Ejercicios de desarrollo
+
 - Crear un input donde el usuario escribirá un color en inglés y un botón. El usuario al presionar el botón se debe cambiar el color de la página al color especificado.
 
 - Crear dos input y un botón, el usuario debe ingresar su altura en uno de los inputs y el peso en el otro, se debe mostrar un mensaje con IMC resultante, si es normal, mostrar en verde, si es alto o bajo mostrar en rojo.
