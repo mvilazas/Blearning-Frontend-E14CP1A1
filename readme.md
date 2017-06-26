@@ -1,7 +1,10 @@
 <section>
 
-#Ejercicios de repaso de javascript y jquery
+# Actividad Presencial 1 de Jquery.
 
+## Ejercicios de repaso de javascript y jquery
+
+Para realizar estos ejercicios escribir dentro de un archivo .md
 
 - ¿Qué se muestra en pantalla?
 
