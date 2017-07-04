@@ -8,39 +8,6 @@ https://github.com/DesafioLatam/Blearning-Frontend-E14CP1A1
 
 Para realizar estos ejercicios escribir dentro de un archivo .md
 
-- ¿Qué se muestra en pantalla?
-
-	~~~js
-	a = 2
-	a + 1
-	console.log(a)
-	~~~
-- ¿Qué se muestra en pantalla?
-
-	~~~js
-	a = "2"
-	a += 1
-	console.log(a)
-	~~~
-- ¿Qué se muestra en pantalla?
-
-	~~~js
-	console.log( 2 + 3 * 5)
-	~~~
-
-	- ¿Por qué es relevante esta pregunta?
-	- Cómo podríamos hacer para cambiar el orden de la operación
-- ¿Qué se muestra en pantalla?
-
-	~~~js
-	function saludar(a){
-		console.log("hola");
-	}
-
-	saludar
-	~~~
-	- ¿Qué hay que agregar para que el llamado a la función muestre en pantalla "hola"?
-	- Hay algo en este código que está sobrando, ¿qué es?
 - ¿Cuál es el error?
 
 	~~~js
@@ -63,30 +30,6 @@ Para realizar estos ejercicios escribir dentro de un archivo .md
 	console.log(resultado);
 	~~~
 
-- Qué hace?
-
-	~~~js
-	$( ".b1" ).html("html")
-	~~~
-- Qué hace?
-
-	~~~js
-	var text = $('.b1').html()
-	~~~
-- ¿Qué hace?
-
-	~~~js
-	$('.btn').on('click', function(){
-		alert('dont click me');
-	}
-	~~~
-- ¿Cuál es la utilidad del siguiente código?
-
-	~~~js
-	$('document').ready(function(){
-
-	});
-	~~~
 
 ## Ejercicios de desarrollo
 
