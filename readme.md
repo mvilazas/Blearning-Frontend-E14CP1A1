@@ -83,24 +83,24 @@ Para realizar estos ejercicios escribir dentro de un archivo .md
 - ¿Cuál es la utilidad del siguiente código?
 
 	~~~js
-	$('document').on('load', function(){
-	}
+	$('document').ready(function(){
+
+	});
 	~~~
 
-##Ejercicios de desarrollo
+## Ejercicios de desarrollo
 
-- Crear un input donde el usuario escribirá un color en inglés y un botón. El usuario al presionar el botón se debe cambiar el color de la página al color especificado.
+Para realizar estos ejercicios entra a: https://jsfiddle.net/1fk5fyLc/7/
+Recuerda documentar todos los pasos en un archivo llamado tunombre.md para que puedas subir tus respuestas a la plataforma.
 
-- Crear dos input y un botón, el usuario debe ingresar su altura en uno de los inputs y el peso en el otro, se debe mostrar un mensaje con IMC resultante, si es normal, mostrar en verde, si es alto o bajo mostrar en rojo.
-
-- Crear un input, un botón y otro input. El usuario debe ingresar un valor númerico en el primero, y al presionar el botón en el segundo input debe aparecer de forma automática el valor más el IVA (incremento del 19%)
-
-- Crear tres inpus y un botón, los dos primeros inputs son para que el usuario ingrese su nombre y su apellido, al presionar el boton el texto del tercer input debe ser remplazado por la concatenación de los dos primeros.
-	-  Cambiar el código anterior para que el texto del tercer input se modifique automáticamente cada vez que alguien escriba en los inputs sin necesidad de presionar algún botón.
-
-- Crear dos inputs y un botón, el usuario debe ingresar un ancho en un input y un alto en el segundo, al presionar el botón se debe dibujar un cuadrado (para dibujarlo se debe utilizar CSS)
-
-- Crear una página que tiene 2 columnas, en la columna izquierda se muestran productos donde cada producto tiene nombre, precio y un link agregar, cada vez que se presione alguno de los links se debe agregar el nombre del producto a la columna derecha.
-
-
-</section>
+- Pon tu nombre al atributo value del campo first name
+- Pon el valor a la pregunta Favorite Day of Week a Monday
+- Cambia la etiqueta de First name a 'Tu nombre'
+- Obtén el valor del atributo 'name' del campo Favorite Day of The Week
+- Escoge la opción Female de la pregunta de género.
+- Encuentra la primera form del documento y pon el atributo name = personal_info
+- Encuentra la primera form del documento y pon el atributo name = job_info
+- Agrega un título h1 a cada una de las formas que diga 'Entrevista personal', 'Entrevista de trabajo' respectivamente
+- Agrega un título a la pregunta Male/Female 'Gender'
+- Agrega una pregunta Email: con un input de tipo texto después de last name
+- Agrega la clase form a ambas for- </section>
