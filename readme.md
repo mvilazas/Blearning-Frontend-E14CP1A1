@@ -62,7 +62,7 @@ $('form').first().attr("name=personal_info")
 ~~~
 - Encuentra la primera form del documento y pon el atributo name = job_info
 ~~~js
-$('form').first().attr("name=personal_info")
+$('form').first().attr("name=job_info")
 ~~~
 - Agrega un título h1 a cada una de las formas que diga 'Entrevista personal', 'Entrevista de trabajo' respectivamente
 - Agrega un título a la pregunta Male/Female 'Gender'
